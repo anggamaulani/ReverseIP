@@ -1,3 +1,3 @@
 # ReverseIP
 
-https://i.ibb.co/y4YpVp9/Screenshot-3.png
+<img src="https://i.ibb.co/y4YpVp9/Screenshot-3.png"
